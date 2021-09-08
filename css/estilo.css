@@ -84,6 +84,10 @@ alinhamento dos textos dentro da classe col-md-12, customização dos botões
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
 /* Estrutura de contéudos
 --------------------*/
 .caixa {
